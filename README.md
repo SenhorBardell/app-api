@@ -18,6 +18,8 @@ npm install
 node server.js
 ```
 
+#Httpie example
+
 ```
 http POST http://localhost:1337/oauth/token grant_type=password client_id=mobile client_secret=1366613 username=John password=test111
 ```
