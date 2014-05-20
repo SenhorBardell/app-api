@@ -30,8 +30,8 @@ http POST http://localhost:1337/oauth/token grant_type=password client_id=mobile
 http POST http://localhost:1337/oauth/token grant_type=refresh_token client_id=mobile client_secret=1366613 refresh_token=TOKEN
 ```
 ```
-http http://app-api.eu01.aws.af.cm/api Authorization:'Bearer TOKEN'
+http http://localhost:1337/api Authorization:'Bearer TOKEN'
 ```
 ```
-http http://app-api.eu01.aws.af.cm/articles Authorization:'Bearer TOKEN'
+http http://localhost:1337/api/articles Authorization:'Bearer TOKEN'
 ```
