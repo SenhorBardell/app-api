@@ -1,5 +1,7 @@
 # Simple nodejs api
 
+Try accessing to http://app-api.eu01.aws.af.cm
+
 ## Using bearer, passportjs, mongoose, winston
 
 ```
