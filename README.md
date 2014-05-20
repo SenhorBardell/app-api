@@ -29,5 +29,5 @@ http POST http://localhost:1337/oauth/token grant_type=refresh_token client_id=m
 http http://app-api.eu01.aws.af.cm/api Authorization:'Bearer TOKEN'
 ```
 ```
-http http://app-api.eu01.aws.af.cm/api Authorization:'Bearer TOKEN'
+http http://app-api.eu01.aws.af.cm/articles Authorization:'Bearer TOKEN'
 ```
