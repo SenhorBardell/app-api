@@ -4,6 +4,6 @@
         "tokenLife" : 3600
     },
     "mongoose": {
-        "uri": "mongodb://213.149.20.191/testAPI"
+        "uri": "mongodb://test-user:test-password@ds049198.mongolab.com:49198/test-api"
     }
 }
